@@ -1,6 +1,8 @@
+'''
 lst=[2,4,6]
 sum_lst=list(map(lambda num:sum(lst)-num,lst))
 print(sum_lst)
+'''
 
 '''
 lst3=[3,5,7]
@@ -29,3 +31,18 @@ while(low<upp):
     elif(sum<sumf):
         low+=1
 '''
+
+lst1=[10,11,20,21,22]
+lst2=[13,14,20,21,30]
+pos1=0
+pos2=0
+lst1[pos1]
+while(pos1<len(lst1)):
+    if (lst1[pos1]==lst2[pos2]):
+        print(lst1[pos1])
+        pos1+=1
+        pos2+=1
+    elif (lst1[pos1]>lst2[pos2]):
+        pos2+=1
+    else:
+        pos1+=1
