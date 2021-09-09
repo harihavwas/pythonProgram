@@ -1,0 +1,10 @@
+/* Tag name or ID or Class name
+{
+    property:value;
+}
+
+*/
+h1{color:red;}
+h2{color:#00e1ff}
+#htwo{color:indianred}
+.second{color: lawngreen;}
