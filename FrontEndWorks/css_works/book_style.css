@@ -1,4 +1,8 @@
+body{
+    background-color: lavender;
+}
 div{
+    background-color: whitesmoke;
     width:20%;
     height: 500px;
     border: 1px solid blueviolet;
@@ -6,6 +10,7 @@ div{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size:x-small;
     text-align: center;
+
 }
 div h4{
     text-align: left;

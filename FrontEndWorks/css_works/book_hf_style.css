@@ -1,0 +1,15 @@
+div{
+    height: 100px;
+    background-color: lavender;
+    width: 50%;
+    border-width: 2px;
+    border-style: solid ;
+    border-color: red;
+    margin-left: 320px;
+    padding-left: 50px;
+    padding-top: 10px
+    
+}
+.foot{
+    margin-top: 500px;
+}
