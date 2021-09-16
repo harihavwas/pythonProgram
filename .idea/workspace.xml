@@ -6,7 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2e2773-6a7c-457a-ad5c-c85ae4343df5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Django/list_operatn.py" afterPath="$PROJECT_DIR$/Django/list_operatn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEndWorks/html_works/github_reg.html" afterPath="$PROJECT_DIR$/FrontEndWorks/html_works/github_reg.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -100,7 +101,7 @@
       <file leaf-file-name="list_operatn.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Django/list_operatn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
+            <state relative-caret-position="640">
               <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
               <folding />
             </state>
@@ -187,9 +188,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
-    <option name="height" value="1088" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="640" />
+    <option name="height" value="360" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -207,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -240,7 +243,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -808,7 +810,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Django/list_operatn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
+        <state relative-caret-position="640">
           <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
           <folding />
         </state>

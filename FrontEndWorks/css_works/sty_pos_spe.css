@@ -1,0 +1,51 @@
+.row
+{
+    width: 60%;
+    height: 250px;
+    position: relative;
+    background-color: lavender;
+    margin-top: 10px;
+    left: 20%;
+}
+.col
+{
+    width: 20%;
+    height: 250px;
+    position: absolute;
+}
+.col-1
+{
+    background-color: lawngreen;
+}
+.col-2
+{
+    background-color: lightcoral;
+    left: 22%;
+}
+.col-3
+{
+    background-color: lightseagreen;
+    left: 44%;
+}
+.col-4
+{
+    background-color: magenta;
+    left: 66%;
+}
+.fixed
+{
+    width: 100px;
+    height: 100px;
+    background-color: maroon;
+    position: fixed;
+    left: 88%;
+}
+.sticky
+{
+    width: 100px;
+    height: 100px;
+    background-color: mediumslateblue;
+    position: sticky;
+    top: 5%;
+
+}
